@@ -1,0 +1,54 @@
+{
+  "brand": "붉은실 운명원",
+  "source_note": "공식 홈페이지에 공개된 사연후기를 요약한 자료. 작성자의 주장이지 독립적으로 검증된 상담 효과가 아님.",
+  "reviews": [
+    {
+      "id": "review_01",
+      "topic": "연애 포기와 부정적인 사주 해석",
+      "concern": "고란살·무관사주 등 부정적 해석을 듣고 연애 자체를 포기하려 했다는 고민",
+      "reported_service": "인연이 들어오는 시기와 만남을 준비하는 방법에 대한 풀이를 받았다고 서술",
+      "reported_outcome": "이후 남자친구를 만나 교제 중이라고 작성자가 보고함",
+      "tags": ["연애 포기", "연애 자신감", "인연", "만남", "사주 해석", "연애운"],
+      "source_url": "https://fatefortune.co.kr/?bmode=view&idx=118693256&interlock=shop_review&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+      "source_type": "official_site_customer_post",
+      "attribution": "공식 사이트에 공개된 고객 후기",
+      "verified_effect": false
+    },
+    {
+      "id": "review_02",
+      "topic": "파혼 이후 새 관계 시작",
+      "concern": "결혼식장을 예약한 상대의 외도로 파혼한 후 다시 관계를 시작하기 어려웠다는 고민",
+      "reported_service": "새 인연을 만나는 문제에 관한 인연법 풀이를 받았다고 서술",
+      "reported_outcome": "새로운 상대를 만나 다시 결혼을 준비하고 있다고 작성자가 보고함",
+      "tags": ["파혼", "외도", "이별", "배신", "새 인연", "재출발", "결혼"],
+      "source_url": "https://fatefortune.co.kr/?bmode=view&idx=118693264&interlock=shop_review&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+      "source_type": "official_site_customer_post",
+      "attribution": "공식 사이트에 공개된 고객 후기",
+      "verified_effect": false
+    },
+    {
+      "id": "review_03",
+      "topic": "반복된 소개팅과 결혼 상대 고민",
+      "concern": "소개팅과 결혼정보회사 이용에도 맞는 상대를 찾지 못해 불안했다는 고민",
+      "reported_service": "인연법 풀이를 받고 여러 질문에 답변을 받았다고 서술",
+      "reported_outcome": "이후 결혼을 준비할 상대를 만났다고 작성자가 보고함",
+      "tags": ["소개팅", "결혼정보회사", "결혼", "배우자", "만남", "인연", "연애 실패"],
+      "source_url": "https://fatefortune.co.kr/?bmode=view&idx=118693250&interlock=shop_review&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+      "source_type": "official_site_customer_post",
+      "attribution": "공식 사이트에 공개된 고객 후기",
+      "verified_effect": false
+    },
+    {
+      "id": "review_04",
+      "topic": "결혼운 불안과 반복되는 연애 패턴",
+      "concern": "다른 사주 풀이에서 결혼이 늦다는 말을 듣고 불안했고 연애 패턴을 이해하고 싶었다는 고민",
+      "reported_service": "연애 패턴과 향후 만남의 특징·환경에 관한 설명을 들었다고 서술",
+      "reported_outcome": "이후 모임에서 만난 사람과 교제 중이라고 작성자가 보고함",
+      "tags": ["결혼운", "연애 패턴", "연애 불안", "연애 성향", "모임", "인연", "결혼"],
+      "source_url": "https://fatefortune.co.kr/?bmode=view&idx=118693250&interlock=shop_review&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+      "source_type": "official_site_customer_post",
+      "attribution": "공식 사이트에 공개된 고객 후기",
+      "verified_effect": false
+    }
+  ]
+}
